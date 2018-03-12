@@ -1421,6 +1421,26 @@ body {
 .cid-qLUSlIWPcY .mbr-section-title {
   text-align: center;
 }
+.cid-qM6bScwjQt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/plan-1680x839.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qM6bScwjQt .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qM6bScwjQt .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qM6bScwjQt .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qLUV893gME {
   padding-top: 60px;
   padding-bottom: 90px;
